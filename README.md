@@ -39,6 +39,10 @@ The main objective of this project is to understand how a compiler performs the 
 9. Displays the token, its category, and the corresponding line number.
 10. Releases allocated memory and closes the file after processing.
 
+
+<img width="1536" height="1024" alt="op_front" src="https://github.com/user-attachments/assets/bc2be2ea-791c-4e56-b8ac-0e0b5b98b61f" />
+
+
 # TOKEN CATEGORIES
 
 - Keywords
@@ -67,6 +71,12 @@ The main objective of this project is to understand how a compiler performs the 
 
 # OUTPUT IMAGES
 
+
+<img width="506" height="461" alt="op_1" src="https://github.com/user-attachments/assets/354ba002-04ee-463e-9066-40a178140f94" />
+
+<img width="390" height="446" alt="op_2" src="https://github.com/user-attachments/assets/a136cdac-13a4-422a-828d-8c35423566cb" />
+
+<img width="469" height="309" alt="op_3" src="https://github.com/user-attachments/assets/aa5b6d09-bd01-4148-8661-1a21efddbe23" />
 # CONCLUSION
 
 This project helped me understand the internal working of the lexical analysis phase of a compiler. It strengthened my knowledge of C programming, file handling, dynamic memory allocation, string processing, and character-by-character scanning.
